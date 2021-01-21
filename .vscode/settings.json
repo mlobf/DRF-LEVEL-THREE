@@ -1,0 +1,7 @@
+{
+  "python.pythonPath": "/home/italia/Documents/GitRepo/DRF-LEVEL-THREE/myvenv/bin/python",
+  "python.linting.pylintEnabled": false,
+  "python.linting.flake8Enabled": true,
+  "python.linting.enabled": true,
+  "python.formatting.provider": "black"
+}
